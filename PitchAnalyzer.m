@@ -2,6 +2,10 @@ function [] = PitchAnalyzer()
 
 % Tool to analyze the pitch from a speaker in realtime.
 %
+% This program takes usage of the function msound for the real time
+% signal processing. You can get it from the jade-hochschule-site:
+% http://tgm.jade-hs.de/web/file/Institut_fr_Hrtechnik_und_Audiologie/Software.php
+%
 % Usage: to start the tool, you have to run the script (F5).
 %
 %------------------------------------------------------------------------
